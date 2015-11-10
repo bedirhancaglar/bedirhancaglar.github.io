@@ -18,7 +18,7 @@
 <img src="http://www.wikipedia.or.ke/images/thumb/2/2b/Line_1.5x%2B1_--_points.svg/300px-Line_1.5x%2B1_--_points.svg.png" title=Bresenham's algorithm alt=Bresenham's algorithm border="2px"/>
 <h2><b>References</h2></b>
 <ol>
-<li><a href="1.	https://en.wikipedia.org/wiki/Jack_Elton_Bresenham"target="_blank">https://en.wikipedia.org/wiki/Jack_Elton_Bresenham</a>
+<li><a href="https://en.wikipedia.org/wiki/Jack_Elton_Bresenham"target="_blank">https://en.wikipedia.org/wiki/Jack_Elton_Bresenham</a>
 </li>
 <li><a href="http://www.delinetciler.org/dokumanlar/65858-bilgisayar-bilimcileri-bilgisayar-bilim-adamlari.html"target="_blank">http://www.delinetciler.org/dokumanlar/65858-bilgisayar-bilimcileri-bilgisayar-bilim-adamlari.html</a>
 </li>
