@@ -1,4 +1,4 @@
-<!--bedirhancaglar.github.io->
+<!--bedirhancaglar.github.io-->
 <html>
 <head>
 <title>Bedirhan ÇAĞLAR 141044073</title>
